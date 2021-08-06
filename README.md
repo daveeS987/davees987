@@ -1,21 +1,13 @@
-<h1>Hi 👋, I'm Davee</h1>
+# Hi 👋, I'm Davee
 
-<h3>A Full Stack Javascript/Python developer out of Dallas, TX</h3>
+## A Full Stack Javascript/Python developer out of Dallas, TX
 
-<p> <img src="https://komarev.com/ghpvc/?username=davees987&label=Profile%20views&color=0e75b6&style=flat" alt="davees987" /> </p>
+![Davee's GitHub Stats](https://komarev.com/ghpvc/?username=davees987&label=Profile%20views&color=0e75b6&style=flat)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davees987&show_icons=true&locale=en)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=davees987&show_icons=true&locale=en)
 
-<div style="width:100%">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davees987&show_icons=true&locale=en" alt="davees987" /></p>
-</div>
+## Languages & Tools
 
-<div style="width:100%">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davees987&show_icons=true&locale=en&layout=compact" alt="davees987" /></p>
-</div>
-
-<br/>
-
-<h3>Languages and Tools:</h3>
-<div style="width:100%">
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
